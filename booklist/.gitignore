@@ -2,7 +2,6 @@
 
 # dependencies
 /node_modules
-/booklist/node_modules
 /.pnp
 .pnp.js
 
